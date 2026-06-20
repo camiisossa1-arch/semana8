@@ -1,9 +1,0 @@
-Capturas de pantalla Semana 8
-
-   1. Captura de la carpeta semana8 creada en GitHub
-   2. Captura del archivo preguntas-semana8.txt con las respuestas
-   3. Captura del archivo sistema.txt con los comandos
-   4. Captura del archivo seguridad-plataformas.txt
-   5. Captura del archivo reflexion-semana8.txt
-
-   Todas las capturas muestran el proceso completo del taller.
