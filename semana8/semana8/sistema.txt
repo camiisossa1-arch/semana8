@@ -1,0 +1,6 @@
+Nombre del sistema: Sistema de Gestión de Archivos
+
+Comando para ver carpeta actual: pwd
+Comando para crear archivo: touch archivo.txt
+Comando para crear carpeta: mkdir carpeta
+Comando para listar archivos: ls
