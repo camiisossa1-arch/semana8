@@ -1,0 +1,7 @@
+Plataforma 1: GitHub
+   - Para qué sirve: Guardar código y trabajar en equipo
+   - Medida de seguridad: Usar contraseña fuerte + activar verificación en 2 pasos
+
+   Plataforma 2: Google Drive  
+   - Para qué sirve: Guardar archivos en la nube
+   - Medida de seguridad: No compartir el link con "cualquiera con el link"
