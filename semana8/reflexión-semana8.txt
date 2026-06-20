@@ -1,0 +1,7 @@
+Reflexión Semana 8
+
+   Lo más difícil fue entender los comandos de Linux porque son en inglés y hay que memorizarlos.
+
+   Lo más fácil fue crear archivos y carpetas con touch y mkdir porque es parecido a Windows.
+
+   Aprendí que GitHub sirve para guardar trabajos y que no se pierdan, y que la seguridad en plataformas es importante para que no nos roben la información.
