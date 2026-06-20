@@ -1,0 +1,8 @@
+1. ¿Qué es un repositorio en GitHub y para qué sirve?
+2. ¿Qué comando se usa para ver en qué carpeta estás en la terminal?
+3. ¿Qué comando crea un archivo nuevo vacío?
+4. ¿Qué comando crea una carpeta nueva?
+5. ¿Cuál es la diferencia entre 'git add' y 'git commit'?
+6. ¿Para qué sirve 'git push'?
+7. ¿Qué es GitHub Codespaces?
+8. ¿Cómo se verifica que los archivos se subieron correctamente a GitHub?
